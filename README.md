@@ -1,6 +1,6 @@
 # CloudFormation - Desafio
 
-Este repositório contém um template YAML do AWS CloudFormation que cria:
+Este repositório contém um template YAML para ser utilizado no AWS CloudFormation que cria:
 
 - Uma instância EC2 do tipo `t2.nano` utilizando a AMI mais recente do Amazon Linux 2023 (via SSM Parameter Store).
 - Um usuário IAM chamado `joao.silva`.
